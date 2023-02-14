@@ -1,4 +1,4 @@
-lib-array2xml
+Testing the bug
 =============
 
 Array2XML conversion library credit to lalit.org
