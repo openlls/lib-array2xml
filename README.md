@@ -1,4 +1,4 @@
-lib-array2xml
+lib-array2xm
 =============
 
 Array2XML conversion library credit to lalit.org
